@@ -2,11 +2,10 @@
 <DOCTYPE html>
 <html>
 <head>
-<title>sample-01</title>
+<title></title>
+  <style></style>
 </head>
 <body>
-<div class="body" id="body">
-</div>
 <script></script>
 </body>
 </html>
